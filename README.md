@@ -1,2 +1,2 @@
-# Jogo-do-Moinho-FP
-Segundo projeto de Fundamentos de Programação 20/21
+# Nine-Men-Morris-FP
+Second project for Foundations of Programming 20/21
